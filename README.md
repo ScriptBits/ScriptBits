@@ -5,7 +5,7 @@
 
 I'm slowly assembling a library of projects for Computer Science teachers to use with their high school students and/or beginning college students.  These are projects that have worked well in my classrooms over the last few years.  Of course, each project individually might be in a state of repair or upgrade.  If in doubt, ask me.
 
-Everything here is free for your classroom use.  All I ask is that you contribute back to the library and when the opportunity arises, put in a kind word.
+Everything here is free for your classroom use.  All I ask is that you contribute back to the library and when the opportunity arises, put in a kind word for what I'm trying to do.
 
 What I do? 👨‍💻
 * Computer Science Instructor
