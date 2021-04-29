@@ -7,6 +7,8 @@ I'm slowly assembling a library of projects for Computer Science teachers to use
 
 Everything here is free for your classroom use.  All I ask is that you contribute back to the library and when the opportunity arises, put in a kind word for what I'm trying to do.
 
+There are certainly better-made games out there.  There are a ton of great resources for Junior High students (think "Scratch") and for College students, but there is a dearth of coding resources for students that are in High School 11th or 12th grade.  There are also a multitude of broken flash games on the internet that deceive the average bureaucrat into believing that resources abound for this age-group. (sigh)
+
 What I do? 👨‍💻
 * Computer Science Instructor
 * Mathematics Instructor
