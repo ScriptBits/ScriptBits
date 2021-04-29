@@ -1,6 +1,6 @@
 ### G'day traveller.  Thanks for stopping by 👋
 
-I am currently working to create projects for Computer Science teachers to use with their high school students and/or beginning college students.  (Some projects are under construction...careful the potholes.)
+I am currently working to create projects for Computer Science teachers to use with their high school students and/or beginning college students. 
 
 What I do? 👨‍💻
 * Computer Science Instructor
