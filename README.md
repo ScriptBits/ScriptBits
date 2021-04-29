@@ -3,10 +3,12 @@
 I am currently working to create projects for teachers to use with their high school students and/or beginning college students.  
 
 What I do? 👨‍💻
-* STEM Teacher
+* Computer Science Instructor
+* Math Instructor
 
 Questions you may have.  😕
 * Who are you?
+* Husband & Father
 
 What if you like my work? 🤩
 * You can Star ⭐ the repositories you like.
