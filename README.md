@@ -7,13 +7,6 @@ What I do? 👨‍💻
 * Math Instructor
 * Tutor
 
-Questions you may have.  😕
-* Who are you?
-  * Husband & Father
-* Why do you teach school?
-  * This is the best way for me to serve my country
-  * Can't take money with me to heaven
-
 What if you like my work? 🤩
 * You can Star ⭐ the repositories you like.
 * You can tell other teachers
