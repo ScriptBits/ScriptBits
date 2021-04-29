@@ -5,15 +5,19 @@ I am currently working to create projects for teachers to use with their high sc
 What I do? 👨‍💻
 * Computer Science Instructor
 * Math Instructor
+* Tutor
 
 Questions you may have.  😕
 * Who are you?
-* Husband & Father
+  * Husband & Father
+* Why do you teach school?
+  * This is the best way for me to serve my country
+  * Can't take money with me to heaven
 
 What if you like my work? 🤩
 * You can Star ⭐ the repositories you like.
 * You can tell other teachers
-* You can contribute a project
+* You can contribute your own project
 
 <!--
 **ke5urh/ke5urh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
