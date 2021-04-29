@@ -1,4 +1,17 @@
-### Hi there 👋
+### G'day traveller.  Thanks for stopping by 👋
+
+I am currently working to create projects for teachers to use with their high school students and/or beginning college students.  
+
+What I do? 👨‍💻
+* STEM Teacher
+
+Questions you may have.  😕
+* Who are you?
+
+What if you like my work? 🤩
+* You can Star ⭐ the repositories you like.
+* You can tell other teachers
+* You can contribute a project
 
 <!--
 **ke5urh/ke5urh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
