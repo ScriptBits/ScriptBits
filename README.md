@@ -9,13 +9,13 @@ Everything here is free for your classroom use.  All I ask is that you contribut
 
 What I do? 👨‍💻
 * Computer Science Instructor
-* Math Instructor
-* Tutor
+* Mathematics Instructor
+* Free tutor to anyone who wants to learn
 
 What if you like my work? 🤩
 * You can Star ⭐ the repositories you like.
-* You can tell other teachers
-* You can contribute your own project
+* You can click the follow button and tell other teachers
+* You can contribute your own projects to this library
 
 <!--
 **ke5urh/ke5urh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
