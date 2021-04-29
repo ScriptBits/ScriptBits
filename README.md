@@ -3,7 +3,7 @@
 
 ### G'day traveller.  Thanks for stopping by 👋
 
-I'm a small library of projects for Computer Science teachers to use with their high school students and/or beginning college students. 
+I'm slowly assembling a library of projects for Computer Science teachers to use with their high school students and/or beginning college students.  Everything here is free for your classroom use.  All I ask is that you contribute back to the library and when the opportunity arises, put in a kind word.
 
 What I do? 👨‍💻
 * Computer Science Instructor
