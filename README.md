@@ -1,5 +1,5 @@
-<imag src="https://github.com/ke5urh/ke5urh/blob/main/Ke5urh_Banner1.png" alt="edge of space">
 
+![Banner](images/Ke5urh_Banner1.png)
 
 ### G'day traveller.  Thanks for stopping by 👋
 
