@@ -19,7 +19,7 @@ What I do? 👨‍💻
 
 What if you like my work? 🤩
 * You can Star ⭐ the repositories you like.
-* You can click the follow button and tell other teachers
+* You can tell other teachers to use the resource
 * You can contribute your own projects to this library
 
 <!--
